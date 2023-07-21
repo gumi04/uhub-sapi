@@ -29,12 +29,12 @@
 						<configuration>
 							<cloudHubDeployment>
 								<applicationName>uho-dev-uhub-sapi</applicationName>
-								<environment>dev</environment>
+								<environment>DEV</environment>
 								<region>us-east-1</region>
 								<workers>1</workers>
 								<workerType>MICRO</workerType>
 								<properties>
-									<env>dev</env>
+									<env>DEV</env>
 									<enc.key>${enc.key}</enc.key>
 									<api.id>18843302</api.id>
 									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
