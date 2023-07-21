@@ -34,7 +34,7 @@
 								<workers>1</workers>
 								<workerType>MICRO</workerType>
 								<properties>
-									<env>DEV</env>
+									<env>dev</env>
 									<enc.key>${enc.key}</enc.key>
 									<api.id>18843302</api.id>
 									<anypoint.platform.client_id>${anypoint.platform.client_id}</anypoint.platform.client_id>
